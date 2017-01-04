@@ -1,0 +1,6 @@
+hi$hii*@How are are&How are you
+All the best.
+this line will be printed.
+Try this out .$****\nThe$purpose of this program is to@*give you practice &give you practice in writing a multi-threaded program*m$&to@using the pthread library.
+Your &assignment is to$*write a program that emulates a 123 simple terminal handler.@The terminal handler processs* consists$ of three threads.@
+@@*Thank you.$you@
