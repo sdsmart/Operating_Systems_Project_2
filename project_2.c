@@ -1,6 +1,6 @@
 /*
 ********************************
-* Operating Systems Homework 4 *
+* Operating Systems Project 2  *
 * Due Date: Sunday October 18  *
 *                              *
 * Name: Stephen Smart          *
