@@ -18,16 +18,16 @@ To run this project, execute: ./result_program input.txt
 
 You should see the processed ouput being displayed like the following:
 
-hi
-How are you
-All the best.
-this line will be printed.
-Try this purpose of this program is to
-to
-using the pthread library.
-assignment iswrite a program that emulates a 123 simple terminal handler.
-The terminal handler process  of three threads.
-
-
-
+hi<br/>
+How are you<br/>
+All the best.<br/>
+this line will be printed.<br/>
+Try this purpose of this program is to<br/>
+to<br/>
+using the pthread library.<br/>
+assignment iswrite a program that emulates a 123 simple terminal handler.<br/>
+The terminal handler process  of three threads.<br/>
+<br/>
+<br/>
+<br/>
 Thank you
