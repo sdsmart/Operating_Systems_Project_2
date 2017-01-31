@@ -1,13 +1,3 @@
-/*
-********************************
-* Operating Systems Project 2  *
-* Due Date: Sunday October 18  *
-*                              *
-* Name: Stephen Smart          *
-* ID: 113851356                *
-********************************
-*/
-
 // Includes 
 #include <stdio.h>
 #include <stdlib.h>
