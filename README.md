@@ -1,22 +1,18 @@
-About This Repository
-=====================
-This project was assigned in my Operating Systems class at the University of Oklahoma.
+Multi-threading Practice Program
+--------------------------------
+The purpose of this program was to learn how to imeplement multi-threading in C.
 
-The purpose of this project was to learn how to imeplement multi-threading in C.
+multi-threading-practice.c uses threading to process an input file based on certain predefined conditions.
 
-project_2.c uses threading to process an input file based on certain specifications laid out in the assignment.
+### Build Instructions
+To build this project simply run: gcc -o [result_program] multi-threading-practice.c Replacing [result_program] with the name of the executable program you desire.
 
-Build Instructions
-------------------
-To build this project simply run: gcc -o [result_program] project_2.c Replacing [result_program] with the name of the executable program you desire.
+Note: I built this project on a Macbook Pro, which may use a slightly different version of gcc than expected.
 
-Note: I built this project on my Macbook Pro, which may use a slightly different version of gcc.
-
-Run Instructions
-----------------
+### Run Instructions
 To run this project, execute: ./result_program input.txt
 
-You should see the processed ouput being displayed like the following:
+You should see the processed ouput being displayed exactly like the following:
 
 hi<br/>
 How are you<br/>
